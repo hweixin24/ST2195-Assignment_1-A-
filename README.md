@@ -1,1 +1,6 @@
 # ST2195-Assignment_1-A-
+
+ABCD
+EFGH
+IJKL
+DONE ON 6 OCTOBER 2023
